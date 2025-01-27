@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Assignment 1 - Question 3
-#Kobe Lee Martinez, RUID: 202006380
-
 #3.1
 #I loaded in the matlab package so the images can 
 #flipud, fliplr, and/or  rot90
