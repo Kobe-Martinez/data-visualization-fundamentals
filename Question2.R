@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Assignment 1 - Question 2
-#Kobe Lee Martinez, RUID: 202006380
-
 #2.1
 
 #Created a data frame using the data.frame() function and assigned it to RUTranscript
