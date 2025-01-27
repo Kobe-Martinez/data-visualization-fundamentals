@@ -32,8 +32,8 @@ This project contains three R scripts that demonstrate foundational programming 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/data-visualization-r.git
-   cd data-visualization-r
+   git clone https://github.com/Kobe-Martinez/data-visualization-fundamentals.git
+   cd data-visualization-fundamentals
    
 2. **Run Scripts**:
    - Open any of the `.R` scripts in R or RStudio
