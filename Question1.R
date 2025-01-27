@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Assignment 1 - Question 1
-#Kobe Lee Martinez, RUID: 202006380
-
 #1.1
 #I created the variable called myfirstnumber and assigned it the value of 5 by using the leftward operator.
 myfirstnumber <- 5
